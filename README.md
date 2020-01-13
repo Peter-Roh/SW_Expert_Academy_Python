@@ -13,3 +13,4 @@ site : https://www.swexpertacademy.com/main/main.do
 |[**1209**](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE)|[2차원 배열의 행, 열, 대각선의 합 중 최댓값 구하기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/1209.py)|
 |[1213](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14P0c6AAUCFAYi#)|[특정한 문자열의 개수 구하기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/1213.py)|
 |[1215](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi)|[주어진 길이의 회문의 개수 구하기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/1215.py)|
+|[6692](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWdXofhKFkADFAWn&categoryId=AWdXofhKFkADFAWn&categoryType=CODE)|[받을 수 있는 월급의 평균 구하기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/6692.py)|
