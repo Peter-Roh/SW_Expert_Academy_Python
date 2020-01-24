@@ -17,3 +17,4 @@ site : https://www.swexpertacademy.com/main/main.do
 |[6692](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWdXofhKFkADFAWn&categoryId=AWdXofhKFkADFAWn&categoryType=CODE)|[받을 수 있는 월급의 평균 구하기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/6692.py)|
 |[7465](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU&categoryId=AWngfZVa9XwDFAQU&categoryType=CODE)|[마을 사람들의 무리의 수 구하기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/7465.py)|
 |[4751](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWSNw5jKzwMDFAUr)|[문자열 형식에 맞춰 출력하기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/4751.py)|
+|[7675](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqPvqoqSLQDFAT_)|[조건에 따라 문자열 검사하기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/7675.py)|
