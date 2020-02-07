@@ -21,3 +21,4 @@ site : https://www.swexpertacademy.com/main/main.do
 |[4751](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWSNw5jKzwMDFAUr)|[문자열 형식에 맞춰 출력하기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/4751.py)|
 |[7675](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqPvqoqSLQDFAT_)|[조건에 따라 문자열 검사하기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/7675.py)|
 |[4672](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRKNev6fqYDFAV8&categoryId=AWRKNev6fqYDFAV8&categoryType=CODE)|[부분문자열의 팰린드롬 개수 세기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/4672.py)|
+|[4259](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL3yk6ALUDFAUW&categoryId=AWLL3yk6ALUDFAUW&categoryType=CODE)|[제곱수의 합 계산하기](https://github.com/Peter-Roh/SW_Expert_Academy_Python/blob/master/.py)|
